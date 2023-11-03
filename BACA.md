@@ -11,7 +11,7 @@ Tugas Mata Kuliah Pemrograman API - Membentuk kata "HELLO WORLD" dengan mengguna
 
 <br>
 
-## Explanation
+## Penjelasan
 Dengan menggunakan API Lib "gdi32" yang ada pada Visual Basic 6, Anda dapat memanipulasi berbagai macam objek sesuai dengan yang diinginkan. Fungsi lib "gdi32" dapat diaplikasikan pada form, adapun fungsi yang digunakan pada umumnya yaitu :<br><br>
 
 | Nomor | Nama Fungsi | Deskripsi |
