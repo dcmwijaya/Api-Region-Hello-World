@@ -50,7 +50,7 @@ https://bit.ly/Installer_VB6
 ## Running
 1.Download this repository.<br>
 2.Extract the file.<br>
-3.Click "ProgramFP_Kel6.exe" to run the application program.<br>
+3.Click "Aplikasi Hello World API Region.exe" to run the application program.<br>
 4.Please enjoy [Done].
 
 <br><br>
