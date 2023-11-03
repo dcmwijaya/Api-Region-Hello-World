@@ -31,7 +31,7 @@ Dengan menggunakan API Lib "gdi32" yang ada pada Visual Basic 6, Anda dapat mema
 | 13 | Send Message | Berfungsi untuk menampilkan hasil keluaran ke windows. |
 | 14 | ReleaseCapture | Berfungsi untuk menyebabkan proses tombol mouse menjadi responsif. |
 
-<br><br>
+<br>
 
 ## Fitur / Kerangka Kerja / Peralatan
 | Bagian | Deskripsi |
@@ -45,7 +45,7 @@ Dengan menggunakan API Lib "gdi32" yang ada pada Visual Basic 6, Anda dapat mema
 https://bit.ly/Installer_VB6
 ```
 
-<br><br>
+<br>
 
 ## Menjalankan
 1.Unduh repositori ini.<br>
@@ -53,7 +53,7 @@ https://bit.ly/Installer_VB6
 3.Klik "Aplikasi Hello World API Region.exe" untuk menjalankan program aplikasi.<br>
 4.Selamat menikmati [Selesai].
 
-<br><br>
+<br>
 
 ## Sorotan
 <table>
@@ -65,7 +65,7 @@ https://bit.ly/Installer_VB6
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta (c) 2020 - Devan Cakra Mudra Wijaya
