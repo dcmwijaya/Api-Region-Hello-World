@@ -7,46 +7,71 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Api-Region-Hello-World
-Membentuk kata "HELLO WORLD" dengan menggunakan bantuan Library API Visual Basic 6
+API Programming Course Assignment - Form the word "HELLO WORLD" using the help of the API Library in Visual Basic 6.
 
 <br>
-<br>
 
-## PENJELASAN
-<p><b>Dengan menggunakan Lib "gdi32" API pada Visual Basic 6, anda dapat memanipulasi berbagai objek yang diinginkan. Function lib "gdi32" dapat diterapkan pada form, adapun fungsi-fungsi yang digunakan secara umum yaitu :</b><br><br>
-a. PathToRegion<br>
-Berfungsi untuk menciptakan suatu area dari jalur yang dipilih ke dalam area tertentu.<br><br>
-b. PtlnRegion<br>
-Berfungsi untuk menentukan apakah titik tertentu berada di dalam wilayah yang ditentukan.<br><br>
-c. OffsetRegion<br>
-Berfungsi untuk bergerak berada di area intern dengan batasan yang telah ditentukan.<br><br>
-d. CreateRoundRectRgn<br>
-Berfungsi untuk membuat form persegi panjang dengan sudut tumpul (bulat).<br><br>
-e. CreateRectRgnIndirect<br>
-Berfungsi untuk membuat area persegi panjang dari struktur RECT.<br><br>
-f. CreateRectRgn<br>
-Berfungsi untuk membentuk objek baru berbentuk persegi panjang.<br><br>
-g. CreatePolyPolygonRgn<br>
-Berfungsi untuk membuat area yang terdiri dari serangkaian poligon.<br><br>
-h. CreatePolygonRgn<br>
-Berfungsi untuk membentuk objek baru berbentuk polygon.<br><br>
-i. CreateEllipticRgnIndirect<br>
-Berfungsi untuk membuat area elips dari struktur RECT.<br><br>
-j. CreateEllipticRgn<br>
-Berfungsi untuk membentuk objek baru berbentuk elips atau bulat.<br><br>
-k. CombineRgn<br>
-Berfungsi untuk menggabungkan bagian yang berpotongan dari dua area yang berbeda.<br>
-a. Angka 2 pada fungsi Combine bersifat fill object yang berarti mengisi objek pada bidang tertentu yang diinginkan.<br>
-b. Angka 4 pada fungsi Combine bersifat remove object yang berarti menghilangkan objek pada bidang tertentu yang diinginkan.<br><br></p>
-  
-<p><b>Adapun fungsi tambahan lainnya :</b><br><br>
-1. SetWindowRgn (handle, variabel, True)<br>
-Handle di sini maksudnya adalah handle dari form ataupun kontrol lainnya yang akan diubah atau tak terkalahkan bentuknya untuk form yaitu Form.hwnd.<br><br>
-2. Send Message untuk penampilan hasil output ke windows.<br><br>
-3. ReleaseCapture untuk menimbulkan proses tombol mouse jadi bisa responsive.<br></p>
+## Explanation
+By using the Lib "gdi32" API in Visual Basic 6, you can manipulate various objects as desired. The lib "gdi32" function can be applied to the form, as for the functions used in general, namely :<br><br>
 
-<br>
-<br>
+| Number | Function Name | Description |
+| --- | --- | --- |
+| 1 | PathToRegion | Serves to create an area from the selected path into a specific area. |
+| 2 | PtlnRegion | Serves to determine whether a given point is inside the specified region. |
+| 3 | OffsetRegion | Function to move in the internal area with predetermined restrictions. |
+| 4 | CreateRoundRectRgn | Function to create rectangular forms with obtuse (rounded) corners. |
+| 5 | CreateRectRgnIndirect | Function to create a rectangular area of the RECT structure. |
+| 6 | CreateRectRgn | Function to form a new rectangular object. |
+| 7 | CreatePolyPolygonRgn | Function to create an area consisting of a series of polygons. |
+| 8 | CreatePolygonRgn | Function to form a new polygon-shaped object. |
+| 9 | CreateEllipticRgnIndirect | Serves to create the elliptical area of the RECT structure. |
+| 10 | CreateEllipticRgn | Function to form a new elliptical or round object. |
+| 11 | CombineRgn | Serves to join the intersecting parts of two different areas.<br>&emsp;&emsp;a. The number 2 in the Combine function is a fill object which means it fills the object in a certain desired field.<br>&emsp;&emsp;b. The number 4 in the Combine function is remove object, which means to remove the object in a certain desired field. |
+| 12 | SetWindowRgn (handle, variabel, True) | The handle of the form or other control that will be changed or invincible form for the form is Form.hwnd. |
+| 13 | Send Message | Function to display the output results to windows. |
+| 14 | ReleaseCapture | Serves to cause the mouse button process to be responsive. |
 
-## DOKUMENTASI
-<img src="https://user-images.githubusercontent.com/54527592/101258632-59e7a300-3756-11eb-9db8-4d554fe43307.jpg"/>
+<br><br>
+
+## Features / Framework / Tools
+| Part | Description |
+| --- | --- |
+| Tools | Visual Basic 6.0 Enterprise |
+
+<br><br>
+
+## Download & Install Visual Basic 6.0 Enterprise
+```bash
+https://bit.ly/Installer_VB6
+```
+
+<br><br>
+
+## Running
+1.Download this repository.<br>
+2.Extract the file.<br>
+3.Click "ProgramFP_Kel6.exe" to run the application program.<br>
+4.Please enjoy [Done].
+
+<br><br>
+
+## Highlights
+<table>
+<tr>
+<th width="840">Implementation</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/101258632-59e7a300-3756-11eb-9db8-4d554fe43307.jpg" alt="implementation"></td>
+</tr>
+</table>
+
+<br><br>
+
+## LICENSE
+MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
