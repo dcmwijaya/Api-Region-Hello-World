@@ -26,7 +26,7 @@ Dengan menggunakan API Lib "gdi32" yang ada pada Visual Basic 6, Anda dapat mema
 | 8 | CreatePolygonRgn | Berfungsi untuk membentuk objek berbentuk poligon baru. |
 | 9 | CreateEllipticRgnIndirect | Berfungsi untuk menciptakan area elips pada struktur RECT. |
 | 10 | CreateEllipticRgn | Berfungsi untuk membentuk objek elips atau bulat baru. |
-| 11 | CombineRgn | Berfungsi untuk menyambungkan bagian yang berpotongan dari dua area yang berbeda.<br><br>&emsp;&emsp;a. Angka 2 dalam fungsi Combine adalah fill object, yang berarti mengisi objek dalam<br>&emsp;&emsp;bidang tertentu yang diinginkan.<br><br>&emsp;&emsp;b. Angka 4 dalam fungsi Combine adalah remove object, yang berarti menghapus<br>&emsp;&emsp;objek di bidang tertentu yang diinginkan. |
+| 11 | CombineRgn | Berfungsi untuk menyambungkan bagian yang berpotongan dari dua area yang berbeda.<br><br>&emsp;&emsp;a. Angka 2 dalam fungsi Combine adalah fill object, yang berarti<br>&emsp;&emsp;mengisi objek dalam bidang tertentu yang diinginkan.<br><br>&emsp;&emsp;b. Angka 4 dalam fungsi Combine adalah remove object, yang<br>&emsp;&emsp;berarti menghapus objek di bidang tertentu yang diinginkan. |
 | 12 | SetWindowRgn (handle, variabel, True) | Pengendalian formulir atau kontrol lain yang akan diubah atau bentuk tak terkalahkan untuk formulir yaitu Form.hwnd. |
 | 13 | Send Message | Berfungsi untuk menampilkan hasil keluaran ke windows. |
 | 14 | ReleaseCapture | Berfungsi untuk menyebabkan proses tombol mouse menjadi responsif. |
