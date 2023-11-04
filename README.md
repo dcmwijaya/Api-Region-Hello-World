@@ -7,12 +7,13 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Api-Region-Hello-World
-API Programming Course Assignment - Form the word "HELLO WORLD" using the help of the API Library in Visual Basic 6.
+<strong>API Programming Course Assignment</strong><br>
+Form the word ``` HELLO WORLD ``` using the help of the API Library in Visual Basic 6.
 
 <br>
 
 ## Explanation
-By using the Lib "gdi32" API in Visual Basic 6, you can manipulate various objects as desired. The lib "gdi32" function can be applied to the form, as for the functions used in general, namely :<br><br>
+By using the Lib ``` gdi32 ``` API in Visual Basic 6, you can manipulate various objects as desired. The lib ``` gdi32 ``` function can be applied to the form, as for the functions used in general, namely :<br><br>
 
 | Number | Function Name | Description |
 | --- | --- | --- |
@@ -50,7 +51,7 @@ https://bit.ly/Installer_VB6
 ## Running
 1.Download this repository.<br>
 2.Extract the file.<br>
-3.Click "Aplikasi Hello World API Region.exe" to run the application program.<br>
+3.Click ``` Aplikasi Hello World API Region.exe ``` to run the application program.<br>
 4.Please enjoy [Done].
 
 <br>
