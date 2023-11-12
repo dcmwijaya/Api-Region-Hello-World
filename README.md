@@ -48,7 +48,7 @@ https://bit.ly/Installer_VB6
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository.<br>
 2. Extract the file.<br>
 3. Click ``` Aplikasi Hello World API Region.exe ``` to run the application program.<br>
