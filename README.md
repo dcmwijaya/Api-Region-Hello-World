@@ -1,10 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Hello-World)
-![GitHub Star](https://img.shields.io/github/stars/devancakra/Api-Region-Hello-World.svg?color=FF69B4)
-![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Api-Region-Hello-World.svg?color=FF8C00)
-![GitHub Forks](https://img.shields.io/github/forks/devancakra/Api-Region-Hello-World.svg?color=00CED1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Hello-World)
-![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
+![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Hello-World
 <strong>API Programming Course Assignment</strong><br>
