@@ -4,7 +4,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Hello-World
-<strong>Proyek Pribadi Pemrograman API</strong><br>
+<strong>Proyek Tunggal Pemrograman API</strong><br>
 Membentuk kata ``` HELLO WORLD ``` dengan menggunakan bantuan Pustaka API yang ada di Visual Basic 6.
 
 <br>
