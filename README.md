@@ -4,7 +4,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Hello-World
-<strong>API Programming Course Assignment</strong><br>
+<strong>API Programming Solo Project</strong><br>
 Form the word ``` HELLO WORLD ``` using the help of the API Library in Visual Basic 6.
 
 <br>
