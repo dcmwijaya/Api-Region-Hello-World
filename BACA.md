@@ -40,9 +40,13 @@ Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapa
 <br>
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
-```bash
+<table><tr><td width="840">
+  
+```
 https://bit.ly/Installer_MS_VB6
 ```
+
+</td></tr></table>
 
 <br>
 
@@ -63,6 +67,11 @@ https://bit.ly/Installer_MS_VB6
 <td><img src="https://user-images.githubusercontent.com/54527592/101258632-59e7a300-3756-11eb-9db8-4d554fe43307.jpg" alt="implementation"></td>
 </tr>
 </table>
+
+<br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br>
 
