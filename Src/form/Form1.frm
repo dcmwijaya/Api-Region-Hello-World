@@ -168,4 +168,3 @@ Private Sub Form_MouseDown(Button As Integer, Shift As Integer, x As Single, Y A
     ReleaseCapture
     SendMessage Form1.hwnd, &HA1, 2, 0&
 End Sub
-
