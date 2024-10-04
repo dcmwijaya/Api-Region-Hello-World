@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Hello-World)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Hello-World)
-![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Hello-World?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Api-Region-Hello-World
 <strong>Proyek Tunggal Pemrograman API</strong><br>
@@ -64,7 +65,7 @@ https://bit.ly/VisualBasic6_Installer
 <th width="840">Implementasi</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/101258632-59e7a300-3756-11eb-9db8-4d554fe43307.jpg" alt="implementation"></td>
+<td><img src="Documentation/Implementation.jpg" alt="implementation"></td>
 </tr>
 </table>
 
