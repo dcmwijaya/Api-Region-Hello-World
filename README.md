@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=dotnet&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Api-Region-Hello-World
+# API Region - Hello World
 <strong>API Programming Solo Project</strong><br>
 Form the word ``` HELLO WORLD ``` using the help of the API Library in Visual Basic 6.
 
